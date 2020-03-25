@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LeferGitnpm%20install%20-g%20serve/Monsters-Rolodex.git/static/css/main.1816d718.chunk.css",
+    "main.js": "/LeferGitnpm%20install%20-g%20serve/Monsters-Rolodex.git/static/js/main.87c0d56f.chunk.js",
+    "main.js.map": "/LeferGitnpm%20install%20-g%20serve/Monsters-Rolodex.git/static/js/main.87c0d56f.chunk.js.map",
+    "runtime-main.js": "/LeferGitnpm%20install%20-g%20serve/Monsters-Rolodex.git/static/js/runtime-main.3d23e1d5.js",
+    "runtime-main.js.map": "/LeferGitnpm%20install%20-g%20serve/Monsters-Rolodex.git/static/js/runtime-main.3d23e1d5.js.map",
+    "static/js/2.1b35cb52.chunk.js": "/LeferGitnpm%20install%20-g%20serve/Monsters-Rolodex.git/static/js/2.1b35cb52.chunk.js",
+    "static/js/2.1b35cb52.chunk.js.map": "/LeferGitnpm%20install%20-g%20serve/Monsters-Rolodex.git/static/js/2.1b35cb52.chunk.js.map",
+    "index.html": "/LeferGitnpm%20install%20-g%20serve/Monsters-Rolodex.git/index.html",
+    "precache-manifest.302e7e172390d20f878ab5a966aa757a.js": "/LeferGitnpm%20install%20-g%20serve/Monsters-Rolodex.git/precache-manifest.302e7e172390d20f878ab5a966aa757a.js",
+    "service-worker.js": "/LeferGitnpm%20install%20-g%20serve/Monsters-Rolodex.git/service-worker.js",
+    "static/css/main.1816d718.chunk.css.map": "/LeferGitnpm%20install%20-g%20serve/Monsters-Rolodex.git/static/css/main.1816d718.chunk.css.map",
+    "static/js/2.1b35cb52.chunk.js.LICENSE.txt": "/LeferGitnpm%20install%20-g%20serve/Monsters-Rolodex.git/static/js/2.1b35cb52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d23e1d5.js",
+    "static/js/2.1b35cb52.chunk.js",
+    "static/css/main.1816d718.chunk.css",
+    "static/js/main.87c0d56f.chunk.js"
+  ]
+}
