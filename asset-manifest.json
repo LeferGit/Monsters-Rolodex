@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/monsters-Rolodex/static/css/main.1816d718.chunk.css",
-    "main.js": "/monsters-Rolodex/static/js/main.609afc4b.chunk.js",
-    "main.js.map": "/monsters-Rolodex/static/js/main.609afc4b.chunk.js.map",
-    "runtime-main.js": "/monsters-Rolodex/static/js/runtime-main.ac8b40ef.js",
-    "runtime-main.js.map": "/monsters-Rolodex/static/js/runtime-main.ac8b40ef.js.map",
-    "static/js/2.1b35cb52.chunk.js": "/monsters-Rolodex/static/js/2.1b35cb52.chunk.js",
-    "static/js/2.1b35cb52.chunk.js.map": "/monsters-Rolodex/static/js/2.1b35cb52.chunk.js.map",
-    "index.html": "/monsters-Rolodex/index.html",
-    "precache-manifest.f1aebf0c168709d08e84d9fcdfb93c1c.js": "/monsters-Rolodex/precache-manifest.f1aebf0c168709d08e84d9fcdfb93c1c.js",
-    "service-worker.js": "/monsters-Rolodex/service-worker.js",
-    "static/css/main.1816d718.chunk.css.map": "/monsters-Rolodex/static/css/main.1816d718.chunk.css.map",
-    "static/js/2.1b35cb52.chunk.js.LICENSE.txt": "/monsters-Rolodex/static/js/2.1b35cb52.chunk.js.LICENSE.txt"
+    "main.css": "/LeferGit/Monsters-Rolodex/static/css/main.1816d718.chunk.css",
+    "main.js": "/LeferGit/Monsters-Rolodex/static/js/main.0a995086.chunk.js",
+    "main.js.map": "/LeferGit/Monsters-Rolodex/static/js/main.0a995086.chunk.js.map",
+    "runtime-main.js": "/LeferGit/Monsters-Rolodex/static/js/runtime-main.938f0222.js",
+    "runtime-main.js.map": "/LeferGit/Monsters-Rolodex/static/js/runtime-main.938f0222.js.map",
+    "static/js/2.1b35cb52.chunk.js": "/LeferGit/Monsters-Rolodex/static/js/2.1b35cb52.chunk.js",
+    "static/js/2.1b35cb52.chunk.js.map": "/LeferGit/Monsters-Rolodex/static/js/2.1b35cb52.chunk.js.map",
+    "index.html": "/LeferGit/Monsters-Rolodex/index.html",
+    "precache-manifest.1432c8f0f9919e223e9758d2325d41b7.js": "/LeferGit/Monsters-Rolodex/precache-manifest.1432c8f0f9919e223e9758d2325d41b7.js",
+    "service-worker.js": "/LeferGit/Monsters-Rolodex/service-worker.js",
+    "static/css/main.1816d718.chunk.css.map": "/LeferGit/Monsters-Rolodex/static/css/main.1816d718.chunk.css.map",
+    "static/js/2.1b35cb52.chunk.js.LICENSE.txt": "/LeferGit/Monsters-Rolodex/static/js/2.1b35cb52.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac8b40ef.js",
+    "static/js/runtime-main.938f0222.js",
     "static/js/2.1b35cb52.chunk.js",
     "static/css/main.1816d718.chunk.css",
-    "static/js/main.609afc4b.chunk.js"
+    "static/js/main.0a995086.chunk.js"
   ]
 }
